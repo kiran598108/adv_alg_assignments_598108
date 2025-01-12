@@ -7,19 +7,17 @@ using namespace std;
 class indices {
     public:
     vector<int> SumOfTwo(vector<int>& nums, int target) {
-        unordered_map<int, int> numMap;
+        unordered_map<int, int> Map;
         
         for (int i = 0; i < nums.size(); i++) {
             int element = target - nums[i]; 
             
-            if (numMap.find(element) != numMap.end()) {
-                return {numMap[element], i};
+            if (Map.find(element) != Map.end()) {
+                return {Map[element], i};
             }
             
-            numMap[nums[i]] = i;
+            Map[nums[i]] = i;
         }
-        
-        
         return {};
     }
 };
@@ -28,6 +26,8 @@ class indices {
 int main() {
      
     indices indices;
+
+
 //ex-1
     vector<int> nums1 = {2, 7, 11, 15};
     int target1 = 9;
@@ -38,7 +38,6 @@ int main() {
     int target2 = 6;
     vector<int> result2= indices.SumOfTwo(nums2, target2);
     cout << "example - 2: [" << result2[0] << ", " << result2[1] << "]" <<endl;
-
 
 //ex-3
     vector<int> nums3 = {3,3};
