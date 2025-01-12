@@ -26,8 +26,6 @@ class indices {
 int main() {
      
     indices indices;
-
-
 //ex-1
     vector<int> nums1 = {2, 7, 11, 15};
     int target1 = 9;
