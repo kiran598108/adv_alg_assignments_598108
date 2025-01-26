@@ -7,11 +7,11 @@ https://github.com/kiran598108/adv_alg_assignments_598108/tree/main/indices.dSYM
 This is my second week assignment which i wrote code on the sparse matrix, by using c++ i used get and set methods have fixed some value which related my assigment by that vales i tried get the spare matrix represention and dense matrix representions.
 
 
-https://github.com/kiran598108/adv_alg_assignments_598108/sparse_week2
+https://github.com/kiran598108/adv_alg_assignments_598108/tree/main/sparse_week2
 
 # Sparse _matrix linked list representation week 3
 This is my third week assignmet which i wrote a code for sparse matrix example with previous week but this time I just wrote code for linked list using soem class notes reference in here, i coded matrix in side the program it will generate the linked list values with row, column, value of non zero vales of sparse matrix, last node will represent address to next node or null at end of list.
 
 
-https://github.com/kiran598108/adv_alg_assignments_598108/sparse_linked_week3
+https://github.com/kiran598108/adv_alg_assignments_598108/tree/main/sparse_linked_week3
 
