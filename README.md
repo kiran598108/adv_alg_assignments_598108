@@ -1,6 +1,6 @@
 # indices_week1 
 hi , In todays assignment i have wrote a code for array of interger nums with using vectors. i used a c++ languages for accomplishing the the following tasks and in summary of code i just arrays and vectors to indicates the different arrays which may not usage of similat elements with some target number for adding up  to two given in seperate arrays.
-https://github.com/kiran598108/adv_alg_assignments_598108/tree/main
+https://github.com/kiran598108/adv_alg_assignments_598108/tree/main/indices.dSYM
 
 
 # sparse_matrix_week 2
