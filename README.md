@@ -13,3 +13,6 @@ This is my third week assignmet which i wrote a code for sparse matrix example w
 
 https://github.com/kiran598108/adv_alg_assignments_598108/tree/main/sparse_linked_week3
 
+# DIJKSTRA ALGORITHM week 4
+In week 4 i have implemented Dijkstra alogirthm ,the duties of this algorithm is finding the shortest distance between nodes in given graph. it is also used for finding the shortest distance b/w node to node. how we find those is implementation of the algorithm.
+
